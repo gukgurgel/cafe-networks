@@ -1,0 +1,7 @@
+Copyright © 2017-2019 Luigi Barra. All Rights Reserved.
+
+Barca by Luigi Barra is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Permissions beyond the scope of this license may be available at luigibarra.arch@gmail.com. 
+Link license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Luigi Barra <luigibarra.arch@gmail.com>

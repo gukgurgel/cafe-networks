@@ -1,0 +1,19 @@
+If you want the full version and license for commercial use,
+you can purchase here :
+
+https://staircaselab.com/product/alejo/
+
+File include : 
+
+1. Alejo-ItalicLine.otf
+2. Alejo-ItalicLine.ttf
+3. Alejo-ItalicLine.woff
+4. Alejo-ItalicSolid.otf
+5. Alejo-ItalicSolid.ttf
+6. Alejo-ItalicSolid.woff
+7. Alejo-Line.otf
+8. Alejo-Line.ttf
+9. Alejo-Line.woff
+10. Alejo-Solid.otf
+11. Alejo-Solid.ttf
+12. Alejo-Solid.woff
